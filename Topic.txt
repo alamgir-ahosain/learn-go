@@ -1,0 +1,6 @@
+Function
+Closure:A type of function
+pointer
+slice
+varidic func:use slice
+Defer
