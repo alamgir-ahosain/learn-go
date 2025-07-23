@@ -22,7 +22,7 @@ func main(){
 	//only used inside the function,local variable
 	z:="alamgir 3" ;fmt.Println(z)
 	z1,z2:="first","second"; fmt.Println(z1,z2)
-	fmt.Printf("The type of z is: %T\n", z) // T for any type ;means when type is unknown
+	fmt.Printf("The type of z is: %T\n", z) // T for type of the variable 
 
 
 	//constant_(not data type,used to declare variable)
