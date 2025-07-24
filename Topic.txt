@@ -3,8 +3,10 @@ Closure:A type of function
 pointer
 slice
 varidic func:use slice
+
 Defer
 
+range return two value-index,value
 
 1_Basic_Topics
     1. Variable
@@ -29,5 +31,17 @@ Defer
         ii.anonymous  /function literals
         iii.IIFE
         iv.Function Expression
+    5.Variadic function
+    6.Closure
+  
+4_Structs_and_Pointers
+    1.Pointer
+    2.struct
+        i.Reciver function/Method
+        ii.constructor
+        iii.Anonymous Struct
+
+
+
 
 
