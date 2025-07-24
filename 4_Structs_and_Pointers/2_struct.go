@@ -11,7 +11,7 @@ type user struct{ // Name,Dept,Id -> called field or property
 
 
 
-//! ____Reciever Function/Method
+//! _____Reciever Function/Method
 
 func (u user) get_name() string{
 	return u.Name
