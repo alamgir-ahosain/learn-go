@@ -26,7 +26,7 @@ func main(){
 	it can access and use those outer function captured variable.
 
 	use escape analysis:go compiler determine that  value is to  stored or not.
-	go compiler knew that vvariable in the function is latter used.
+	go compiler knew that vvariable in the function is later used.
 
 
 	*/
