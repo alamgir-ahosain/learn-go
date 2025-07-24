@@ -18,7 +18,7 @@ func show_ref(a *[3] int){
 
 func main(){
 	
-	/*____Pointer
+	/*____Pointer__
 	store the memory address
 	* ->deference operator,get the value 
 	*/
