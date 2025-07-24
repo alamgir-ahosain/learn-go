@@ -21,7 +21,7 @@ func(u *user)set_name(){
 	u.Name="alamgir"
 }
 
-//!___Constructor
+//!____Constructor
 func user_constructor(name string,dept string,id int) *user{
 	user_me:=user{
 		 Name:name,
