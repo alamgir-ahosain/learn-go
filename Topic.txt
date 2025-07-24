@@ -40,7 +40,7 @@ range return two value-index,value
         i.Reciver function/Method
         ii.constructor
         iii.Anonymous Struct
-
+    3.embedded struct    
 
 
 
