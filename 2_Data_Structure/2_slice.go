@@ -53,7 +53,6 @@ func main(){
 		fmt.Println()
 	}
 
-
 	//underlynig array
 	array:=[5] int{0,1,2,3,4} 
 	x:=array[1:4]    //1 2 3
@@ -64,10 +63,6 @@ func main(){
 	// slice does not copy value ,if referencing other 
 	x[1]=12
 	fmt.Println(array);	fmt.Println(x);	fmt.Println(y);fmt.Println()
-
-
-
-
 
 
 }
