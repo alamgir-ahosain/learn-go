@@ -52,6 +52,5 @@ func main(){
           return x-y
 	})
 	fmt.Println(sub)
-
 	
 }
