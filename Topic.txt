@@ -4,3 +4,30 @@ pointer
 slice
 varidic func:use slice
 Defer
+
+
+1_Basic_Topics
+    1. Variable
+    2.Data Types
+    3.loop
+    4.Conditional
+        1.if else
+        2.switch
+    5.User Input
+2_Data_Strcuture   
+    1.Array
+    2.slice
+3_Function
+    1.Basic
+    2.init 
+    3.Higher order
+        i.pass function as parameter(callback func)
+        ii.return a function
+        iii. both
+    4.First order
+        i.name function/standard
+        ii.anonymous  /function literals
+        iii.IIFE
+        iv.Function Expression
+
+
