@@ -1,15 +1,5 @@
-Function
-Closure:A type of function
-pointer
-slice
-varidic func:use slice
-
-Defer
-
-range return two value-index,value
-
 1_Basic_Topics
-    1. Variable
+    1.Variable
     2.Data Types
     3.loop
     4.Conditional
@@ -41,6 +31,14 @@ range return two value-index,value
         ii.constructor
         iii.Anonymous Struct
     3.embedded struct    
+5_Interfaces
+6_Enums_and_Generics
+    1.enums
+    2.generics
+    3.generics with struct
+7_Goroutine
+    1.goroutine
+
 
 
 
