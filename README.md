@@ -1,5 +1,5 @@
 # Learning Golang:The Go programming language
-## Go Programming Language Topics
+### This repository covers :
 
 ## 1. Basic Topics
 1. Variables  
@@ -56,12 +56,17 @@
 
 ## 9. Error Handling
 1. Basic Error 
-2. Custom Errors  
+2. Custom Error  
+
+
 
 ---
+# Thank You for Checking Out This Repository!
+Your feedback is valuable! Please share your thoughts and suggestions for improvement via [GitHub Issues](https://github.com/alamgir-ahosain/learn-go/issues).
 
-### Contributing  
-Feel free to fork and submit pull request!
+# Contributing  
+Contributions are welcome! Feel free to fork the repo and create a pull request.
 
-## 🚀 Happy Coding in Go!
+
+# 🚀 Happy Coding in Go!
 
