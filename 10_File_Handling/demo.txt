@@ -1,4 +1,3 @@
-Alamgir Hosain
+write in file
 CSE,MBSTU
-CE21012
-welcome to demo file.
+using slice
