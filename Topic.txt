@@ -7,8 +7,9 @@
         2.switch
     5.User Input
 2_Data_Strcuture   
-    1.Array
+    1.array
     2.slice
+    3.maps
 3_Function
     1.Basic
     2.init 
@@ -38,8 +39,9 @@
     3.generics with struct
 7_Goroutine
     1.goroutine
-
-
-
+    2.waitgroup
+    3.Mutex
+8_Channels   
+    1.Channels  
 
 
