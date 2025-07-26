@@ -47,5 +47,6 @@
     1.error
     2.custom error
 10_File_Handling
-1. open and read 
+    1. open and read
+    2. write ,delete 
 
