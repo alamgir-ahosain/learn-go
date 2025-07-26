@@ -1,0 +1,3 @@
+write in file
+CSE,MBSTU
+using slice
