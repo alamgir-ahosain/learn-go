@@ -56,7 +56,11 @@
 
 ## 9. Error Handling
 1. Basic Error 
-2. Custom Error  
+2. Custom Error
+
+## 10. File Handling
+1. Open and Read File
+2. Write and Delete file   
 
 
 
