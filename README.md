@@ -60,9 +60,20 @@
 
 ## 10. File Handling
 1. Open and Read File
-2. Write and Delete file   
+2. Write and Delete file
+   
 ## 11. Custom Packages
 
+## 12. Web Request
+1. simple web request
+   
+## 13. URL
+1. URL operation
+   
+## 14. JSON
+1. Basic json Encoading and Decoading
+       
+## 15. CRUD API   
 
 ---
 # Thank You for Checking Out This Repository!
