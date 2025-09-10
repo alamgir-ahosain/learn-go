@@ -56,5 +56,10 @@
    1. URL operation
 14_JSON
    1. Basic json Encoading and Decoading      
-15_CRUD_API   
+15_CRUD_API  
+16_JWT
+    1. Base64 : Encode and Decode 
+    2. SHA-256
+    3. HMAC
+    
 
