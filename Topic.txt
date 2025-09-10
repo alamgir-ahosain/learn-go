@@ -61,5 +61,9 @@
     1. Base64 : Encode and Decode 
     2. SHA-256
     3. HMAC
+    4. JWT Create without using Libraey
+    5. jwt create with Libraey
+
+
     
 
